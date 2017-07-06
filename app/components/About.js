@@ -76,8 +76,8 @@ export default class About extends React.Component {
           	</Col>
           	<Col md="8" md-offset="2">
           		<div className={styles.aboutSection}>
-          			<h3 className={styles.staffCardHeading}>我們是follow聯合國的命名（ISOxxx）原則，真的可以改嗎？</h3>
-          			<p className={styles.bodyText}>有另外一個命名原則與這個不一樣，是ISOxxx，可以參照這個原則，會對台灣更友善。謝謝！</p>
+          			<h3 className={styles.staffCardHeading}>我們是follow聯合國的命名（ISO3166-2）原則，真的可以改嗎？</h3>
+          			<p className={styles.bodyText}>有另外一個命名原則與這個不一樣，是FIPS 10-4，可以參照這個原則，會對台灣更友善。謝謝！</p>
                 <div className={styles.letterBox}>
                   <p>Dear Sir or Madam,</p>
                   <p>It seems your web service is using the country list with the ISO3166-2 list.</p>
